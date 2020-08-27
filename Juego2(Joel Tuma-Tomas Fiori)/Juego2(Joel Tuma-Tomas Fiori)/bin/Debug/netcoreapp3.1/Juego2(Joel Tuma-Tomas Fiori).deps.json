@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Juego2(Joel Tuma-Tomas Fiori)/1.0.0": {
+        "runtime": {
+          "Juego2(Joel Tuma-Tomas Fiori).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Juego2(Joel Tuma-Tomas Fiori)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
